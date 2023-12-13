@@ -19,8 +19,9 @@ Web Scrapper is a Python tool designed to recursively extract and categorize lin
 ## Installation
 
 ```bash
-  git clone https://github.com/Shatt3r-hub/webScrapper.git
-  sudo pip install -r requirements.txt
+git clone https://github.com/Shatt3r-hub/webScrapper.git
+cd webScrapper
+pip install -r requirements.txt
 ```
     
 ## Usage
@@ -31,12 +32,18 @@ python webScrapper.py -u <URL> -t <Threshold/Depth> -o <OutputFolder>
 The parameters can be conveniently specified via the command line.
 
 The target URL `-u` *is mandatory*, recursion depth threshold `-t` *is optional (default value is 1)*, and output folder `-o` *is optional (if not provided it will just print the customised result to the output stream)*
+
 ## Example
 ```bash
-python webScraper.py -u https://example.com -t 2 -o example_folder
-
+python webScrapper.py -u https://example.com -t 2 -o example_folder
 ```
 This command will scrape/extract links from the specified URL *https://example.com* up to a depth of *2* and save the results in the *'output_folder'*
+
+## Screenshots
+
+![App Screenshot](https://drive.google.com/file/d/1fBLtyhb2hBcDRFzA1F-WiOl7llCQYbPD/view)
+
+https://drive.google.com/file/d/1fBLtyhb2hBcDRFzA1F-WiOl7llCQYbPD/view
 
 ## Contributing
 
