@@ -19,7 +19,7 @@ Web Scrapper is a Python tool designed to recursively extract and categorize lin
 ## Installation
 
 ```bash
-  git clone https://github.com/aboul3la/Sublist3r.git
+  https://github.com/Shatt3r-hub/webScrapper.git
   sudo pip install -r requirements.txt
 ```
     
