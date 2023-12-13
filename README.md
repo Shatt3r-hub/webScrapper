@@ -41,9 +41,9 @@ This command will scrape/extract links from the specified URL *https://example.c
 
 ## Screenshots
 
-![webScrapper Working](/blob/main/logo.png)
+![webScrapper Working](https://drive.google.com/file/d/1fBLtyhb2hBcDRFzA1F-WiOl7llCQYbPD/view)
 
-https://github.com/Shatt3r-hub/webScrapper/blob/main/logo.png
+https://drive.google.com/file/d/1fBLtyhb2hBcDRFzA1F-WiOl7llCQYbPD/view
 
 ## Contributing
 
