@@ -1,6 +1,4 @@
 argparse
 requests
 bs4
-re
-os
-urllib.parse
+urllib3
